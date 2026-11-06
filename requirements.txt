@@ -1,0 +1,10 @@
+pymupdf
+opencv-python-headless
+numpy
+pandas
+python-dotenv
+langchain>=1.0
+langchain-core>=1.0
+langchain-ollama
+streamlit>=1.57
+reportlab
